@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: sung.log
+title: SUNG.LOG
 subtitle: 불라불라불라
-description:
+description: Sung's Blog using Hexo
 author: SUNG :D
 language: en
 timezone:
@@ -87,3 +87,13 @@ deploy:
   type: git
   repo: https://github.com/ddok2/ddok2.github.io.git
   branch: master
+
+# sitemap auto generator
+sitemap:
+    path: sitemap.xml
+
+feed:
+  type: atom
+  path: feed.xml
+  limit: 20
+  hub:

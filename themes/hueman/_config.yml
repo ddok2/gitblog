@@ -21,7 +21,7 @@ customize:
         #google-plus: /
         github: https://github.com/ddok2/
         #weibo: /
-        #rss: /
+        rss: https://ddok2.github.io/feed.xml
 
 # Widgets
 widgets:
@@ -64,7 +64,7 @@ share: default # options: jiathis, bdshare, addtoany, default
 plugins:
     lightgallery: true # options: true, false
     justifiedgallery: true # options: true, false
-    google_analytics: # enter the tracking ID for your Google Analytics
+    google_analytics: UA-111952711-1
     baidu_analytics: # enter Baidu Analytics hash key
     bing_site_verification: # enter Bing verification key here
     mathjax: false # options: true, false
@@ -72,7 +72,7 @@ plugins:
 # Miscellaneous
 miscellaneous:
     open_graph: # see http://ogp.me
-        fb_app_id:
+        fb_app_id: 173291423425352
         fb_admins:
         twitter_id:
         google_plus:

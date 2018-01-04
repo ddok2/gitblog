@@ -64,3 +64,6 @@ Thumbs.db
 db.json
 public/
 .deploy*/
+
+# sung custom
+!/source/images/**/*

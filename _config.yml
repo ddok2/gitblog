@@ -8,7 +8,7 @@ subtitle: 불라불라불라
 description: Sung's Blog using Hexo
 author: SUNG :D
 language: en
-timezone:
+timezone: Asia/Seoul
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -39,7 +39,7 @@ relative_link: false
 future: true
 highlight:
   enable: true
-  line_number: true
+  line_number: false
   auto_detect: false
   tab_replace:
   
@@ -95,5 +95,5 @@ sitemap:
 feed:
   type: atom
   path: feed.xml
-  limit: 20
+  limit: false
   hub:

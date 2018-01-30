@@ -7,19 +7,13 @@ branches:
   only:
     - master
 
-before_install:
-  - npm i hexo-cli -g
-
 install:
   - npm i
 
 before_script:
   - git config --global user.name 'Sungyub NA'
   - git config --global user.emal 'darkerkorean@gmail.com'
-#  - sed -i "s/__GITHUB_TOKEN__/${__GITHUB_TOKEN__}/" _config.yml
+  - sed -i "s/__GITHUB_TOKEN__/${__GITHUB_TOKEN__}/" _config.yml
 
 script:
-#  - npm run build
-  - hexo clean
-  - hexo g
-  - hexo d
+  - npm run build

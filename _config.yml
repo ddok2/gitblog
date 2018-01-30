@@ -98,5 +98,12 @@ feed:
   limit: false
   hub:
 
-# hexo all minifier
-all_minifier: true
+# hexo filter-cleanup
+hfc_useref:
+  enable: true
+  concat: true
+  exclude:
+    - '*.min.*'
+
+hfc_favicons:
+  enable: false

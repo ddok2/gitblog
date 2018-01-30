@@ -16,7 +16,7 @@ install:
 before_script:
   - git config --global user.name 'Sungyub NA'
   - git config --global user.emal 'darkerkorean@gmail.com'
-  - sed -i "s/__GITHUB_TOKEN__/${__GITHUB_TOKEN__}/" _config.yml
+#  - sed -i "s/__GITHUB_TOKEN__/${__GITHUB_TOKEN__}/" _config.yml
 
 script:
 #  - npm run build

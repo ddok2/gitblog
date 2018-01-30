@@ -85,7 +85,7 @@ search:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://__GITHUB_TOKEN__@github.com/ddok2/ddok2.github.io.git
+  repo: https://github.com/ddok2/ddok2.github.io.git
   branch: master
 
 # sitemap auto generator

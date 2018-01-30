@@ -99,4 +99,4 @@ feed:
   hub:
 
 # hexo all minifier
-all_minifier: true
+#all_minifier: true

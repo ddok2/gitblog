@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "private": true,
   "hexo": {
-    "version": "3.4.4"
+    "version": "3.5.0"
+  },
+  "scripts": {
+    "build": "hexo clean && hexo d -g"
   },
   "keywords": [
     "hexo",

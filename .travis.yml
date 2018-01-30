@@ -21,4 +21,5 @@ before_script:
 script:
 #  - npm run build
   - hexo clean
-  - hexo d -g
+  - hexo g
+  - hexo d

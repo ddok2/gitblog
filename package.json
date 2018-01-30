@@ -6,7 +6,7 @@
     "version": "3.5.0"
   },
   "scripts": {
-    "build": "hexo clean && hexo d -g"
+    "build": "hexo d -g"
   },
   "keywords": [
     "hexo",

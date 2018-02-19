@@ -25,7 +25,7 @@ SSL 인증서는 보통 유료로 구매를 해야합니다. 그러나 무료 �
 
 ![](/images/dev/node.log/nodejs-https-windows-server.png)
 
-## HTTPS 서버 구현
+## 2. HTTPS 서버 구현
 
 [Node.js HTTPS Documentation](https://nodejs.org/api/https.html#https_https_createserver_options_requestlistener)를 참고하세요.
 

@@ -5,7 +5,7 @@ categories:
     - dev
     - node.log
 tags:
-    -nodejs
+    - nodejs
 thumbnail:
 ---
 

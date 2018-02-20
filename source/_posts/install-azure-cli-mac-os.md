@@ -9,8 +9,6 @@ tags:
 thumbnail: /images/dev/azure.log/azure-cli-mac.png
 ---
 
-![](/images/dev/azure.log/azure-cli-mac.png)
-
 맥을 이용하는 유저는 Azure CLI를 [Homebrew](https://brew.sh/) 통해서 설치할수 있습니다.
 
 ## 1. 설치하기
